@@ -5,7 +5,7 @@
  */
 
 
-const int el_all = A7;
+const int el_all = 2;
 const int el_wing0 = 3;
 const int el_wing1 = 4;
 const int el_wing2 = 5;
